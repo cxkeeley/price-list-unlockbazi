@@ -132,7 +132,7 @@ const packages = [
     subtitle: "Mystery Box — Tatap Muka Langsung",
     name: "Paket Misteri",
     tagline: "Private Session + Ritual",
-    price: "Rp 15.000.000",
+    price: "Rp 15.000.000 — Rp 100.000.000",
     focus: "Solusi untuk masalah besar — bedah langsung, ritual, pendampingan penuh",
     featured: false,
     includes: [
@@ -142,9 +142,9 @@ const packages = [
       "Pendampingan penuh selama sesi berlangsung",
     ],
     format: "Tatap muka langsung — akomodasi & transportasi di luar paket",
-    note: "Khusus untuk klien dengan permasalahan berat yang memerlukan penanganan langsung dan ritual. Hubungi kami untuk diskusi lebih lanjut.",
+    note: "Harga menyesuaikan berat kasus (Rp 15jt — Rp 100jt). Khusus untuk klien dengan permasalahan berat yang memerlukan penanganan langsung dan ritual. Hubungi kami untuk diskusi lebih lanjut.",
     waMessage:
-      "Halo, saya tertarik dengan Paket Misteri (Private Session + Ritual) — Rp 15.000.000. Mohon info lebih lanjut.",
+      "Halo, saya tertarik dengan Paket Misteri (Private Session + Ritual). Mohon info lebih lanjut.",
   },
 ];
 
