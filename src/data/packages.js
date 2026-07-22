@@ -123,6 +123,29 @@ const packages = [
     waMessage:
       "Halo, saya tertarik dengan Paket Ultimate Master Blueprint — Rp 7.500.000. Mohon info lebih lanjut.",
   },
+
+  // ── D. MYSTERY BOX ──
+  {
+    id: "mystery-box",
+    category: "D",
+    section: "Layanan Khusus",
+    subtitle: "Mystery Box — Tatap Muka Langsung",
+    name: "Paket Misteri",
+    tagline: "Private Session + Ritual",
+    price: "Rp 15.000.000",
+    focus: "Solusi untuk masalah besar — bedah langsung, ritual, pendampingan penuh",
+    featured: false,
+    includes: [
+      "Sesi tatap muka langsung (lokasi klien)",
+      "Bedah masalah besar secara komprehensif (Bazi + Fengshui + Ritual)",
+      "Ritual khusus sesuai permasalahan klien",
+      "Pendampingan penuh selama sesi berlangsung",
+    ],
+    format: "Tatap muka langsung — akomodasi & transportasi di luar paket",
+    note: "Khusus untuk klien dengan permasalahan berat yang memerlukan penanganan langsung dan ritual. Hubungi kami untuk diskusi lebih lanjut.",
+    waMessage:
+      "Halo, saya tertarik dengan Paket Misteri (Private Session + Ritual) — Rp 15.000.000. Mohon info lebih lanjut.",
+  },
 ];
 
 export default packages;

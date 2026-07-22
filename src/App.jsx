@@ -22,6 +22,12 @@ const sections = [
     title: "Paket Bundling",
     subtitle: "Rekomendasi Solusi Tuntas — Penyelarasan Total Manusia & Lingkungan",
   },
+  {
+    key: "D",
+    label: "Bagian D",
+    title: "Layanan Khusus — Mystery Box",
+    subtitle: "Untuk klien dengan permasalahan berat yang memerlukan penanganan langsung dan ritual",
+  },
 ];
 
 export default function App() {
@@ -92,11 +98,11 @@ export default function App() {
               Catatan Penting — Layanan Visit / Kunjungan Lokasi
             </h3>
             <p className="text-slate-300 text-sm leading-relaxed mb-4">
-              Khusus untuk layanan konsultasi Fengshui (Paket 5 dan Paket 6)
-              yang memerlukan survei lokasi langsung ke luar area Jabodetabek,
-              biaya transportasi (tiket pesawat/kereta) dan akomodasi ditanggung
-              sepenuhnya oleh klien di luar harga paket yang tertera. Besaran
-              biaya untuk properti dengan luas yang ekstrem (misal: pabrik
+              Khusus untuk layanan konsultasi Fengshui (Paket Fengshui Komprehensif)
+              dan Paket Misteri yang memerlukan kunjungan langsung ke luar area
+              Jabodetabek, biaya transportasi (tiket pesawat/kereta) dan akomodasi
+              ditanggung sepenuhnya oleh klien di luar harga paket yang tertera.
+              Besaran biaya untuk properti dengan luas yang ekstrem (misal: pabrik
               besar/kawasan industri) juga dapat disesuaikan.
             </p>
             <div className="flex items-center gap-2 text-sm text-slate-400">
