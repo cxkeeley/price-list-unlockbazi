@@ -54,6 +54,7 @@ const packages = [
       "Sesi Live Private (Zoom/Tatap Muka) 60-90 menit",
       "Diskusi dua arah — strategi karir, kecocokan partner, solusi rumah tangga",
       "Analisis kecocokan bagan dengan 1 orang tambahan (pasangan/rekan kerja)",
+      "1 pertanyaan konsultasi setiap bulan (tidak diakumulasi — hangus jika tidak dipakai)",
     ],
     format: "Laporan PDF + Sesi Konsultasi Live",
     waMessage:
