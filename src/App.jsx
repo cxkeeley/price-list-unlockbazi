@@ -91,7 +91,8 @@ export default function App() {
 
       {/* ── FOOTER NOTES ── */}
       <footer className="border-t border-dark-600/50">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12 space-y-6">
+          {/* Catatan Visit */}
           <div className="glass rounded-2xl p-6 sm:p-8">
             <h3 className="font-display text-lg font-bold text-white mb-4 flex items-center gap-2">
               <MapPin size={18} className="text-gold-400" />
@@ -111,6 +112,19 @@ export default function App() {
                 Hubungi kami via WhatsApp untuk konsultasi lebih lanjut
               </span>
             </div>
+          </div>
+
+          {/* Catatan Sesi Tatap Muka */}
+          <div className="glass rounded-2xl p-6 sm:p-8">
+            <h3 className="font-display text-lg font-bold text-white mb-4 flex items-center gap-2">
+              <Phone size={18} className="text-gold-400" />
+              Catatan — Sesi Konsultasi Tatap Muka
+            </h3>
+            <p className="text-slate-300 text-sm leading-relaxed">
+              Sesi tatap muka untuk Paket Premium sangat terbatas dan hanya
+              tersedia pada hari Sabtu atau Minggu dengan janji temu sebelumnya.
+              Untuk ketersediaan jadwal, silakan hubungi kami via WhatsApp.
+            </p>
           </div>
         </div>
       </footer>
