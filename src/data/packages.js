@@ -55,6 +55,7 @@ const packages = [
       "Sesi Live Private (Zoom / Tatap Muka) durasi 60–90 menit",
       "Diskusi 2 arah untuk membedah masalah spesifik (karier, bisnis, keluarga, dll)",
       "Gratis cek kecocokan bagan (compatibility) dengan 1 orang tambahan (pasangan / rekan bisnis)",
+      "Benefit tambahan: Akses konsultasi bulanan — 1 tanya jawab per bulan (kuota hangus bila tidak digunakan, berlaku bulan berjalan saja)",
     ],
     format: "Laporan PDF + Sesi Konsultasi Live",
     note: "Sesi Tatap Muka: Sangat terbatas & hanya tersedia Sabtu/Minggu dengan janji temu sebelumnya",
